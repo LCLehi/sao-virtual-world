@@ -1,0 +1,72 @@
+
+
+
+h1{
+    font-size: 63px;
+    padding: 15px;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+h2{
+    font-size: 24px;    
+    text-transform: uppercase;
+    color: #1b5567;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+#tabela{
+    color: white;
+}
+
+.carousel-caption h5{
+    font-size: 80px;
+    color: #e59603;
+    text-shadow: 2px 2px 2px rgb(6, 0, 26);
+    font-family: sans-serif;
+}
+
+.carousel-item img {
+    object-fit: cover; /* Ajusta a imagem para cobrir todo o container */
+  }
+
+  .section-sao{
+    background-color: #100F0F;
+    color: white;
+    font-size: 15;
+    font-family: sans-serif;
+  }
+
+  .section-bar{
+    background-color: #100F0F;
+    font-family: sans-serif ;
+  }
+
+  #navbarSupportedContent{
+    color: rgb(255, 252, 252);
+    background-color:#1b5567;
+    font-family: sans-serif;
+  }
+
+  .section-carrosel{
+        background-color: #1b5567;
+  }
+
+  .section-card-text{
+    color: white;
+  }
+
+  .section-card-body{
+    background-color: #2b2b2b;
+  }
+
+  .section-card-title{
+    color:white;
+  }
+
+  .section-footer{
+    background-color: #1b5567;
+    color: white;
+    font-family: sans-serif;
+    font-size: larger;
+  }
